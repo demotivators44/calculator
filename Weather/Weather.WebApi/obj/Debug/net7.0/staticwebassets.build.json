@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fOCV2Lhwmhu1a16pomb72JM49N4x/NrGal+9bzJ4cdc=",
+  "Source": "Weather.WebApi",
+  "BasePath": "_content/Weather.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

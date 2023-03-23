@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[Accident] ([Id], [Date], [Type], [ApproximateDamages]) VALUES (1, '2018-2-9', 'Moto', 5000)
+INSERT INTO [dbo].[Accident] ([Id], [Date], [Type], [ApproximateDamages]) VALUES (2, '2018-2-9', 'Auto', 10000)
+INSERT INTO [dbo].[Accident] ([Id], [Date], [Type], [ApproximateDamages]) VALUES (3, '2018-2-10', 'Moto', 15000)
+INSERT INTO [dbo].[Accident] ([Id], [Date], [Type], [ApproximateDamages]) VALUES (5, '2018-2-9', 'Moto', 5000)
+INSERT INTO [dbo].[Accident] ([Id], [Date], [Type], [ApproximateDamages]) VALUES (6, '2018-2-9', 'Auto', 10000)

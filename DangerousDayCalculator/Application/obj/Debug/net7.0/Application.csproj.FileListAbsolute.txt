@@ -1,0 +1,12 @@
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\bin\Debug\net7.0\Application.deps.json
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\bin\Debug\net7.0\Application.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\bin\Debug\net7.0\Application.pdb
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\Application.pdb
+C:\Repository\Services\Calculator\DangerousDayCalculator\Application\obj\Debug\net7.0\ref\Application.dll

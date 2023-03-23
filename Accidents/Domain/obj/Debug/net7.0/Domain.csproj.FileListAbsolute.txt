@@ -1,0 +1,14 @@
+C:\Repository\Services\Calculator\Accidents\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Repository\Services\Calculator\Accidents\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+C:\Repository\Services\Calculator\Accidents\Domain\bin\Debug\net7.0\Domain.dll
+C:\Repository\Services\Calculator\Accidents\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.dll
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache
+C:\Repository\Services\Calculator\Accidents\Domain\obj\Debug\net7.0\ref\Domain.dll

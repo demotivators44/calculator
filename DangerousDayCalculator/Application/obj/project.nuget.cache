@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jg5qrmW1Z8XlMGTn1C5zLik+LOGVipiNrNwLs26kHHsU4IqIck6hJdNlYpLIxUpTJ9OmorlHTzNlRShTb9Tuxw==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\Services\\Calculator\\DangerousDayCalculator\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

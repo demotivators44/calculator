@@ -1,0 +1,15 @@
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Repository\Services\Calculator\DangerousDayCalculator\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

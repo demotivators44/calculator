@@ -1,0 +1,6 @@
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\bin\Debug\AccidentsDB.dacpac
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\bin\Debug\AccidentsDB.dll
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\bin\Debug\AccidentsDB.pdb
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\obj\Debug\AccidentsDB.sqlproj.AssemblyReference.cache
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\obj\Debug\AccidentsDB.dll
+C:\Repository\Services\Calculator\Accidents\AccidentsDB\obj\Debug\AccidentsDB.pdb
